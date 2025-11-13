@@ -15,31 +15,108 @@
 //=====//
 //Power Mode Controller 
 //=====//
+
 //////////////
 // Config and Control Subsystem
 //////////////
+
+//=====//
+//Config Space Manager
+//====//
+
+//====//
+//Register Bank and Decode
+//====//
+
+//====//
+//Cluster Config Distributor
+//====//
+
 
 //////////
 // Compute Cluster Array
 /////////
 
-////////
-//Memory Subsystem
-///////
+//====//
+// Cluster 0 - 8
+//====//
 
-////////
+////////////////////
+//Memory Subsystem
+////////////////////
+
+//====//
+//Memory Access Controller
+//====//
+
+//====//
+//Memory Bank Controller
+//====//
+
+//====//
+//eMRAM/NVM Controller
+//====//
+
+//====//
+//Memory Arbiter and Scheduler
+//====//
+
+//////////////////////
 //Data Movement Engine
-////////
+//////////////////////
+
+//====//
+//Streaming INterface
+//====//
+
+//====//
+//DMA Engine
+//====//
+
+//====//
+//Data Format Converter
+//====//
+
+//====//
+//Cross-CLuster Data Network
+//====//
+
 
 ///////
 //Power Management Subsystem
 //////
 
-//////
-//External Imterface
-/////
+//====//
+// Power State Machine
+//====//
 
-////
+//====//
+// Power Gating Controller
+//====//
+
+//====//
+//Back-Bias Controller
+//====//
+
+//====//
+// Isolation Controller
+//====//
+
+//====//
+// Voltage and Frequency Scaling
+//====//
+
+//====//
+// Retention Controller
+//====//
+
+
+
+/////////////////////////
+//External Interface
+/////////////////////////
+
+/////////////////////////
 //Monitoring and Telemetry
-///
+/////////////////////////
 
