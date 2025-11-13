@@ -1,0 +1,2 @@
+import cocotb
+print(f"cocotb version: {cocotb.__version__}")
