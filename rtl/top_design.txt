@@ -6,6 +6,12 @@
 
 //=====//
 // System Control
+
+- Global reset
+- Mode control
+- 
+
+
 //=====//
 
 //=====//
